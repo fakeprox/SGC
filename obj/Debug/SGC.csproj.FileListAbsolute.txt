@@ -1,0 +1,10 @@
+C:\Users\tjorge\Desktop\SGC\bin\Debug\SGC.exe.config
+C:\Users\tjorge\Desktop\SGC\bin\Debug\SGC.exe
+C:\Users\tjorge\Desktop\SGC\bin\Debug\SGC.pdb
+C:\Users\tjorge\Desktop\SGC\obj\Debug\SGC.csprojAssemblyReference.cache
+C:\Users\tjorge\Desktop\SGC\obj\Debug\SGC.Properties.Resources.resources
+C:\Users\tjorge\Desktop\SGC\obj\Debug\SGC.csproj.GenerateResource.cache
+C:\Users\tjorge\Desktop\SGC\obj\Debug\SGC.csproj.CoreCompileInputs.cache
+C:\Users\tjorge\Desktop\SGC\obj\Debug\SGC.exe
+C:\Users\tjorge\Desktop\SGC\obj\Debug\SGC.pdb
+C:\Users\tjorge\Desktop\SGC\obj\Debug\SGC.FLogin.resources
